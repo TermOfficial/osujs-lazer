@@ -35,8 +35,10 @@
  - Set the player options to: Start project automatically: On, Input: No cursor.
  - Leave anything unlisted "off", unless it's required by the changes you specifically have made.
 
- ## Disclaimer, Legal shit
+ ## Disclaimer, Additional notes & Legal shit
  This project is in no way trying to replace the original game. osu! is (C) peppy/team osu!
  
  I highly recommend switiching to this version, as Lazer-v1 will no longer be maintained.
+
+ For the visualizer to work, set your mic to use your desktop audio for the game to pick up your music.
  
