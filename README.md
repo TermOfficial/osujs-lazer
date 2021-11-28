@@ -38,3 +38,5 @@
  ## Disclaimer, Legal shit
  This project is in no way trying to replace the original game. osu! is (C) peppy/team osu!
  
+ I highly recommend switiching to this version, as Lazer-v1 will no longer be maintained.
+ 
