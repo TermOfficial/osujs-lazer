@@ -20,7 +20,7 @@
  
  ## Developing osu!js
  
- (osu!js-lazer is currently not open-source YET. We're planning on making this dream a reality and release the source-code to the public!)
+ **(osu!js-lazer is currently not open-source YET! We're planning on making this dream a reality and release the source-code to the public!)**
  
  - A modified scratch editor with the ability to remove limits and adjust the "stage size" (1280x720)
  (Preferably Turbowarp, use the editing ready link provided here - https://www.turbowarp.org/editor?size=1280x720&clones=Infinity&offscreen&limitless&fps=60)
