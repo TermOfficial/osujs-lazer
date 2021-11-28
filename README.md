@@ -9,7 +9,7 @@
  
  ## Running osu!js
 
- | [Windows 7+ (x64)](https://github.com/TheEggo58/osujs-lazer/releases/download/Release/install.exe) | [Other OS's (HTML)](https://github.com/TheEggo58/osujs-lazer/releases/download/Release/osujs-lazer-v2.html) | 
+ | [Windows 7+ (x64)](https://github.com/TheEggo58/osujs-lazer/releases/download/2021.1127.0/install.exe) | [Other OS's (HTML)](https://github.com/TheEggo58/osujs-lazer/releases/download/2021.1127.0/osujs-lazer-v2.html) | 
  | ------------- | ------------- |
  
  If your platform is not listed above, there is still a chance you can manually build it by following the instructions below.
